@@ -1,0 +1,8 @@
+.DS_Store
+*.o
+*.sh
+.vscode
+minishell
+*.out
+infile*
+outfile*
